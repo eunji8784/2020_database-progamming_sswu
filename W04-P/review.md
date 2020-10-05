@@ -15,4 +15,4 @@
 > * (!): gibash 사용법만 잘 익히면 굉장히 편할 것 같다. 
 
 ## 4. 동작 동영상
-> * <https://drive.google.com/file/d/1P4zCxWqbwg8waKLonKg42E1hyMqVv9vo/view?usp=sharing>
+> * <https://photos.app.goo.gl/HXDiAmUJ9NXQqY8v5>
