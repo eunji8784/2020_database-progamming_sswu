@@ -13,5 +13,5 @@
 
 ## 4. 동작 동영상
 > * <https://drive.google.com/file/d/1VnJGhuviKA8JFAX_T-qcuajs6Hafoi50/view?usp=sharing>
-> * 새로 추가한 내용: 직원 정보와 함께 직원이 속한 __부서 정보__를 함께 출력해주는 코드를 추가했다.
+> * 새로 추가한 내용: 직원 정보와 함께 직원이 속한 **부서 정보**를 함께 출력해주는 코드를 추가했다.
 
