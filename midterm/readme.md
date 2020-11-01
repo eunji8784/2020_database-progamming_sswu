@@ -32,5 +32,5 @@
 &#10140; 위 3개의 정보는 모두 각기 다른 3개의 테이블을 조인하여 만든것이다.
 
 ## 4. 동작 동영상
-> * <https://drive.google.com/file/d/1N1BlLmeKUFjt8jChHCjawHIeg3x8ZD1w/view?usp=sharing>
+> * <https://drive.google.com/file/d/1N1BlLmeKUFjt8jChHCjawHIeg3x8ZD1w/view?usp=sharing> <br/>
 > &#10071; 화질 720p 이상으로 설정 가능합니다.
