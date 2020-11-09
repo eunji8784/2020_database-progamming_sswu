@@ -3,7 +3,7 @@
 Oracle의 경우에는 중간에 리스너라는게 있어서 리스너를 통해서 요청을 전달한다. _내 컴퓨터에서 리스너 포트는 1522번이다._
 * 리스너가 로컬에서만 접근할 수 있도록 하는 설정이 있다. 만약 내 컴퓨터 이외의 컴퓨터에서 __원격으로 접속__ 하기 위해서는 아래의 명령어를 입력해서 해당 설정을 False로 설정해주어야 한다. 
 
-    EXEC DBMS_XDB.SETLISTENERLOCALACCESS(FALSE);
+        EXEC DBMS_XDB.SETLISTENERLOCALACCESS(FALSE);
   
 
 ## 문제가 발생하거나 고민한 내용
