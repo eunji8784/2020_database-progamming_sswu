@@ -14,3 +14,4 @@
 * (!): sql developer를 쓸때는 commit을 꼭 해줘야 한다는 점을 처음 알았다. 
 
 ## 동작 동영상
+<https://drive.google.com/file/d/1AipLm7NYR1_00ZHQS9Su7eZglEhuz_yl/view?usp=sharing>
